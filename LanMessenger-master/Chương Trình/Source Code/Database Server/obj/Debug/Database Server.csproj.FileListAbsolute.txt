@@ -1,0 +1,79 @@
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Database Server\bin\Debug\Temporary Server.exe
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Database Server\bin\Debug\Temporary Server.pdb
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Database Server\bin\Debug\LanMessengerLib.dll
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Database Server\bin\Debug\LanMessengerLib.pdb
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Database Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Database Server\obj\Debug\Temporary Server.exe
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Database Server\obj\Debug\Temporary Server.pdb
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\Database Server\bin\Debug\Temporary Server.exe
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\Database Server\bin\Debug\Temporary Server.pdb
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.dll
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.pdb
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\Database Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\Database Server\obj\Debug\Temporary Server.exe
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\Database Server\obj\Debug\Temporary Server.pdb
+C:\Users\Ding\Desktop\Lan Messenger\Database Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\Lan Messenger\Database Server\obj\Debug\Temporary Server.exe
+C:\Users\Ding\Desktop\Lan Messenger\Database Server\obj\Debug\Temporary Server.pdb
+C:\Users\Ding\Desktop\Lan Messenger\Database Server\bin\Debug\Temporary Server.exe
+C:\Users\Ding\Desktop\Lan Messenger\Database Server\bin\Debug\Temporary Server.pdb
+C:\Users\Ding\Desktop\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.dll
+C:\Users\Ding\Desktop\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\Database Server\bin\Debug\Temporary Server.exe
+E:\Visual Studio 2010\Projects\Lan Messenger\Database Server\bin\Debug\Temporary Server.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\Database Server\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2010\Projects\Lan Messenger\Database Server\obj\Debug\Temporary Server.exe
+E:\Visual Studio 2010\Projects\Lan Messenger\Database Server\obj\Debug\Temporary Server.pdb
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.dll
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.pdb
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\Database Server\obj\Debug\Database Server.csprojResolveAssemblyReference.cache
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\Database Server\obj\Debug\Temporary Server.exe
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\Database Server\obj\Debug\Temporary Server.pdb
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\Database Server\bin\Debug\Temporary Server.exe
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\Database Server\bin\Debug\Temporary Server.pdb
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\Database Server\bin\Debug\Temporary Server.exe
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\Database Server\bin\Debug\Temporary Server.pdb
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\Database Server\obj\Debug\Database Server.csprojResolveAssemblyReference.cache
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\Database Server\obj\Debug\Temporary Server.exe
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\Database Server\obj\Debug\Temporary Server.pdb
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\Database Server\bin\Debug\Temporary Server.exe.config
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.dll
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.pdb
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\Database Server\bin\Debug\Temporary Server.exe.config
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\Database Server\bin\Debug\Temporary Server.exe
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\Database Server\bin\Debug\Temporary Server.pdb
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.dll
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.pdb
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\Database Server\obj\Debug\Database Server.csprojAssemblyReference.cache
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\Database Server\obj\Debug\Database Server.csproj.CoreCompileInputs.cache
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\Database Server\obj\Debug\Database Server.csproj.CopyComplete
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\Database Server\obj\Debug\Temporary Server.exe
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\Database Server\obj\Debug\Temporary Server.pdb
+D:\GITHUB\demo_soon\Lan Messenger\Database Server\bin\Debug\Temporary Server.exe.config
+D:\GITHUB\demo_soon\Lan Messenger\Database Server\bin\Debug\Temporary Server.exe
+D:\GITHUB\demo_soon\Lan Messenger\Database Server\bin\Debug\Temporary Server.pdb
+D:\GITHUB\demo_soon\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.dll
+D:\GITHUB\demo_soon\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.pdb
+D:\GITHUB\demo_soon\Lan Messenger\Database Server\obj\Debug\Database Server.csprojAssemblyReference.cache
+D:\GITHUB\demo_soon\Lan Messenger\Database Server\obj\Debug\Database Server.csproj.CoreCompileInputs.cache
+D:\GITHUB\demo_soon\Lan Messenger\Database Server\obj\Debug\Database Server.csproj.CopyComplete
+D:\GITHUB\demo_soon\Lan Messenger\Database Server\obj\Debug\Temporary Server.exe
+D:\GITHUB\demo_soon\Lan Messenger\Database Server\obj\Debug\Temporary Server.pdb
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\Database Server\bin\Debug\Temporary Server.exe.config
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\Database Server\bin\Debug\Temporary Server.exe
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\Database Server\bin\Debug\Temporary Server.pdb
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.dll
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.pdb
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\Database Server\obj\Debug\Database Server.csprojResolveAssemblyReference.cache
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\Database Server\obj\Debug\Temporary Server.exe
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\Database Server\obj\Debug\Temporary Server.pdb
+D:\LanChat\LanMessenger\Database Server\bin\Debug\LanMessengerLib.dll
+D:\LanChat\LanMessenger\Database Server\bin\Debug\LanMessengerLib.pdb
+D:\LanChat\LanMessenger\Database Server\obj\Debug\Database Server.csprojResolveAssemblyReference.cache
+D:\LanChat\LanMessenger\Database Server\obj\Debug\Temporary Server.exe
+D:\LanChat\LanMessenger\Database Server\obj\Debug\Temporary Server.pdb
+D:\LanChat\LanMessenger\Database Server\bin\Debug\Temporary Server.exe.config
+D:\LanChat\LanMessenger\Database Server\bin\Debug\Temporary Server.exe
+D:\LanChat\LanMessenger\Database Server\bin\Debug\Temporary Server.pdb

@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>8.0.30319</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F10F8233-0B43-4598-81BB-0D68FC30C44C}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>LOGO.ico</ApplicationIcon>
+    <AssemblyKeyContainerName />
+    <AssemblyName>Lan Messenger</AssemblyName>
+    <AssemblyOriginatorKeyFile />
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Lan_Messenger</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject />
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile />
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile />
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn />
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile />
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile />
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn />
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LanMessengerCaro\LanMessengerCaro.csproj">
+      <Project>{e00fa4bc-20e6-4808-8cd0-3bf42c64aedc}</Project>
+      <Name>LanMessengerCaro</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LanMessengerContact\LanMessengerContact.csproj">
+      <Name>LanMessengerContact</Name>
+      <Project>{118B0DFC-C5D4-4839-A1B6-DB219B7AF088}</Project>
+      <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\LanMessengerSendFile\LanMessengerSendFile.csproj">
+      <Project>{ecd8dafe-6772-472e-b272-3a7885e8dc36}</Project>
+      <Name>LanMessengerSendFile</Name>
+    </ProjectReference>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DirectX.Capture">
+      <HintPath>C:\Users\Ding\Desktop\P2P_Video_DirectShow\P2P_Video_DirectShow\bin\Debug\DirectX.Capture.dll</HintPath>
+    </Reference>
+    <Reference Include="DShowNET">
+      <HintPath>C:\Users\Ding\Desktop\P2P_Video_DirectShow\P2P_Video_DirectShow\bin\Debug\DShowNET.dll</HintPath>
+    </Reference>
+    <Reference Include="Khendys.Controls.ExRichTextBox, Version=1.0.4069.43193, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Khendys.Controls.ExRichTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="LanMessengerChatRoomBase">
+      <HintPath>..\LanMessengerChatRoomBase\bin\Debug\LanMessengerChatRoomBase.dll</HintPath>
+    </Reference>
+    <Reference Include="LanMessengerLib, Version=1.0.4067.28968, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\LanMessengerLib\bin\Debug\LanMessengerLib.dll</HintPath>
+    </Reference>
+    <Reference Include="LanMessengerNotify">
+      <HintPath>..\LanMessengerNotify\obj\Debug\LanMessengerNotify.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Runtime.Remoting">
+      <Name>System.Runtime.Remoting</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FormCaro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCaro.designer.cs">
+      <DependentUpon>FormCaro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChangeDisplayName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChangeDisplayName.Designer.cs">
+      <DependentUpon>FormChangeDisplayName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChatRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChatRoom.Designer.cs">
+      <DependentUpon>FormChatRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormJoinRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormJoinRoom.Designer.cs">
+      <DependentUpon>FormJoinRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogsReader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogsReader.Designer.cs">
+      <DependentUpon>FormLogsReader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormOption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOption.designer.cs">
+      <DependentUpon>FormOption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmoticonMenuItem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNetworkSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOfflineMessages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPhotoReceive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPhotoReceive.Designer.cs">
+      <DependentUpon>FormPhotoReceive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPhotoSend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPhotoSend.Designer.cs">
+      <DependentUpon>FormPhotoSend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRecieveFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRecieveFile.Designer.cs">
+      <DependentUpon>FormRecieveFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSelectContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSendFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSendFile.Designer.cs">
+      <DependentUpon>FormSendFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSignIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormWebcam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Content Include="App.ico" />
+    <Content Include="LOGO.ico" />
+    <Content Include="Resources\logo-chat.png" />
+    <None Include="Resources\logo-chat1.png" />
+    <Content Include="Resources\logo.png" />
+    <None Include="Resources\logo1.png" />
+    <Content Include="Resources\O.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\X.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\X1.png" />
+    <None Include="app.config" />
+    <None Include="bin\Debug\images\LOGO_nobackground.png" />
+    <EmbeddedResource Include="FormCaro.resx">
+      <DependentUpon>FormCaro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChangeDisplayName.resx">
+      <DependentUpon>FormChangeDisplayName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChatRoom.resx">
+      <DependentUpon>FormChatRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormJoinRoom.resx">
+      <DependentUpon>FormJoinRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogsReader.resx">
+      <DependentUpon>FormLogsReader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormOption.resx">
+      <DependentUpon>FormOption.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAbout.resx">
+      <DependentUpon>FormAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddContact.resx">
+      <DependentUpon>FormAddContact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChangePassword.resx">
+      <DependentUpon>FormChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMessage.resx">
+      <DependentUpon>FormMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNetworkSettings.resx">
+      <DependentUpon>FormNetworkSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormOfflineMessages.resx">
+      <DependentUpon>FormOfflineMessages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPhotoReceive.resx">
+      <DependentUpon>FormPhotoReceive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPhotoSend.resx">
+      <DependentUpon>FormPhotoSend.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRecieveFile.resx">
+      <DependentUpon>FormRecieveFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSelectContact.resx">
+      <DependentUpon>FormSelectContact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSendFile.resx">
+      <DependentUpon>FormSendFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSignIn.resx">
+      <DependentUpon>FormSignIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormWebcam.resx">
+      <DependentUpon>FormWebcam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent />
+    <PostBuildEvent />
+  </PropertyGroup>
+</Project>

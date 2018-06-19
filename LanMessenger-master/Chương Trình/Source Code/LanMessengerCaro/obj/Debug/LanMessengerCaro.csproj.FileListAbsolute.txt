@@ -1,0 +1,29 @@
+D:\Projects\LanMessenger\Lan Messenger\LanMessengerCaro\bin\Debug\LanMessengerCaro.dll
+D:\Projects\LanMessenger\Lan Messenger\LanMessengerCaro\bin\Debug\LanMessengerCaro.pdb
+D:\Projects\LanMessenger\Lan Messenger\LanMessengerCaro\obj\Debug\LanMessengerCaro.csprojResolveAssemblyReference.cache
+D:\Projects\LanMessenger\Lan Messenger\LanMessengerCaro\obj\Debug\LanMessengerCaro.dll
+D:\Projects\LanMessenger\Lan Messenger\LanMessengerCaro\obj\Debug\LanMessengerCaro.pdb
+D:\Projects\LanMessenger\Lan Messenger\LanMessengerCaro\bin\Debug\Resources\O.png
+D:\Projects\LanMessenger\Lan Messenger\LanMessengerCaro\bin\Debug\Resources\X.png
+D:\LanChat\LanMessenger\LanMessengerCaro\bin\Debug\Resources\O.png
+D:\LanChat\LanMessenger\LanMessengerCaro\bin\Debug\Resources\X.png
+D:\LanChat\LanMessenger\LanMessengerCaro\bin\Debug\LanMessengerCaro.dll
+D:\LanChat\LanMessenger\LanMessengerCaro\bin\Debug\LanMessengerCaro.pdb
+D:\LanChat\LanMessenger\LanMessengerCaro\obj\Debug\LanMessengerCaro.csprojResolveAssemblyReference.cache
+D:\LanChat\LanMessenger\LanMessengerCaro\obj\Debug\LanMessengerCaro.dll
+D:\LanChat\LanMessenger\LanMessengerCaro\obj\Debug\LanMessengerCaro.pdb
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LanMessengerCaro\bin\Debug\Resources\O.png
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LanMessengerCaro\bin\Debug\Resources\X.png
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LanMessengerCaro\bin\Debug\LanMessengerCaro.dll
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LanMessengerCaro\bin\Debug\LanMessengerCaro.pdb
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LanMessengerCaro\obj\Debug\LanMessengerCaro.csprojResolveAssemblyReference.cache
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LanMessengerCaro\obj\Debug\LanMessengerCaro.dll
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LanMessengerCaro\obj\Debug\LanMessengerCaro.pdb
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LanMessengerCaro\bin\Debug\Resources\O.png
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LanMessengerCaro\bin\Debug\Resources\X.png
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LanMessengerCaro\bin\Debug\LanMessengerCaro.dll
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LanMessengerCaro\bin\Debug\LanMessengerCaro.pdb
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LanMessengerCaro\obj\Debug\LanMessengerCaro.csprojAssemblyReference.cache
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LanMessengerCaro\obj\Debug\LanMessengerCaro.csproj.CoreCompileInputs.cache
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LanMessengerCaro\obj\Debug\LanMessengerCaro.dll
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LanMessengerCaro\obj\Debug\LanMessengerCaro.pdb

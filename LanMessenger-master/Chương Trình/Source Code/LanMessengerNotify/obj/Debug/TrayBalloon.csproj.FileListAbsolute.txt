@@ -1,0 +1,9 @@
+C:\Users\Ding\Desktop\TrayBalloon_FULL\Debug\TrayBalloon.dll
+C:\Users\Ding\Desktop\TrayBalloon_FULL\Debug\TrayBalloon.pdb
+C:\Users\Ding\Desktop\TrayBalloon_FULL\TrayBalloon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\TrayBalloon_FULL\TrayBalloon\obj\Debug\TrayBalloon.Properties.Resources.resources
+C:\Users\Ding\Desktop\TrayBalloon_FULL\TrayBalloon\obj\Debug\TrayBalloon.TrayBalloonFrm.resources
+C:\Users\Ding\Desktop\TrayBalloon_FULL\TrayBalloon\obj\Debug\TrayBalloon.dll
+C:\Users\Ding\Desktop\TrayBalloon_FULL\TrayBalloon\obj\Debug\TrayBalloon.pdb
+C:\Users\Ding\Desktop\TrayBalloon_FULL\TrayBalloon\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ding\Desktop\TrayBalloon_FULL\TrayBalloon\obj\Debug\GenerateResource-ResGen.write.1.tlog

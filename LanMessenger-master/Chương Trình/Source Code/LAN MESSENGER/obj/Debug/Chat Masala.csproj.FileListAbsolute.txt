@@ -1,0 +1,21 @@
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\bin\Debug\Chat Masala.exe
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\bin\Debug\Chat Masala.pdb
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\bin\Debug\ChatMasalaContact.dll
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\bin\Debug\ChatMasalaLib.dll
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\bin\Debug\ChatMasalaContact.pdb
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\bin\Debug\ChatMasalaLib.pdb
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat_Masala.Form1.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat_Masala.FormAbout.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat_Masala.FormAddContact.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat_Masala.FormChangePassword.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat_Masala.FormCreateAccount.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat_Masala.FormMessage.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat_Masala.FormNetworkSettings.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat_Masala.FormOfflineMessages.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat_Masala.FormSelectContact.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat_Masala.FormSignIn.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat Masala.exe
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat Masala.pdb

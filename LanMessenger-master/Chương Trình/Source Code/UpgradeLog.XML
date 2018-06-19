@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Chat Masala">
+</Property><Property Name="Solution File" Value="C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala.sln">
+</Property><Property Name="Date" Value="Saturday, February 19, 2011">
+</Property><Property Name="Time" Value="7:52 AM">
+</Property></Properties><Event ErrorLevel="1" Project="ChatMasalaLib" Source="ChatMasalaLib\ChatMasalaLib.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="ChatMasalaLib" Source="ChatMasalaLib\ChatMasalaLib.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ChatMasalaLib" Source="ChatMasalaLib\ChatMasalaLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Chat Masala" Source="Chat Masala\Chat Masala.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Chat Masala" Source="Chat Masala\Chat Masala.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Chat Masala" Source="Chat Masala\Chat Masala.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Temporary Server" Source="Temporary Server\Temporary Server.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Temporary Server" Source="Temporary Server\Temporary Server.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Temporary Server" Source="Temporary Server\Temporary Server.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="ChatMasalaContact" Source="ChatMasalaContact\ChatMasalaContact.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="ChatMasalaContact" Source="ChatMasalaContact\ChatMasalaContact.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ChatMasalaContact" Source="ChatMasalaContact\ChatMasalaContact.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Chat Masala.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Chat Masala.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ChatMasalaLib" Source="ChatMasalaLib\ChatMasalaLib.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Chat Masala" Source="Chat Masala\Chat Masala.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Temporary Server" Source="Temporary Server\Temporary Server.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ChatMasalaContact" Source="ChatMasalaContact\ChatMasalaContact.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,564 @@
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat_Masala.Form1.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat_Masala.FormAbout.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat_Masala.FormAddContact.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat_Masala.FormChangePassword.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat_Masala.FormCreateAccount.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat_Masala.FormMessage.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat_Masala.FormNetworkSettings.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat_Masala.FormOfflineMessages.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat_Masala.FormSelectContact.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat_Masala.FormSignIn.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat Masala.exe
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\obj\Debug\Chat Masala.pdb
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\bin\Debug\Chat Masala.exe
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\bin\Debug\Chat Masala.pdb
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\bin\Debug\LanMessengerLib.dll
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\bin\Debug\LanMessengerLib.pdb
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\bin\Debug\LanMessengerContact.dll
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Chat Masala\bin\Debug\LanMessengerContact.pdb
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Lan Messenger\obj\Debug\Chat Masala.exe
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Lan Messenger\obj\Debug\Chat Masala.pdb
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LAN MESSENGER\bin\Debug\Chat Masala.exe
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LAN MESSENGER\bin\Debug\Chat Masala.pdb
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LAN MESSENGER\bin\Debug\LanMessengerContact.dll
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LAN MESSENGER\bin\Debug\LanMessengerLib.dll
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LAN MESSENGER\bin\Debug\LanMessengerContact.pdb
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LAN MESSENGER\bin\Debug\LanMessengerLib.pdb
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LAN MESSENGER\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LAN MESSENGER\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LAN MESSENGER\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LAN MESSENGER\obj\Debug\Lan_Messenger.Form1.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAbout.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAddContact.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangePassword.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LAN MESSENGER\obj\Debug\Lan_Messenger.FormCreateAccount.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LAN MESSENGER\obj\Debug\Lan_Messenger.FormMessage.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LAN MESSENGER\obj\Debug\Lan_Messenger.FormNetworkSettings.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOfflineMessages.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSelectContact.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSignIn.resources
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerContact.dll
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerLib.dll
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerContact.pdb
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerLib.pdb
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.Form1.resources
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAbout.resources
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAddContact.resources
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangePassword.resources
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormCreateAccount.resources
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormMessage.resources
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormNetworkSettings.resources
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOfflineMessages.resources
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSelectContact.resources
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSignIn.resources
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.exe
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.pdb
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\obj\Debug\Lan Messenger.exe
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\obj\Debug\Lan Messenger.pdb
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerNotify.dll
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerNotify.pdb
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.Properties.Resources.resources
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\obj\Debug\Lan Messenger.exe
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\obj\Debug\Lan Messenger.pdb
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.Form1.resources
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAbout.resources
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAddContact.resources
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangePassword.resources
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormCreateAccount.resources
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormMessage.resources
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormNetworkSettings.resources
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOfflineMessages.resources
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSelectContact.resources
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSignIn.resources
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.Properties.Resources.resources
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.exe
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.pdb
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerContact.dll
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerLib.dll
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerNotify.dll
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerContact.pdb
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerLib.pdb
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerNotify.pdb
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormFileReceive.resources
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormFileSender.resources
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOption.resources
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormLogsReader.resources
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\obj\Debug\GenerateResource.write.907.tlog
+C:\Users\Ding\Desktop\Lan Messenger\LAN MESSENGER\obj\Debug\GenerateResource.write.914.tlog
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan Messenger.exe
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan Messenger.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.exe
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerContact.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerLib.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerNotify.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerContact.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerLib.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerNotify.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormLogsReader.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOption.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.Form1.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAbout.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAddContact.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangePassword.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormCreateAccount.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormFileReceive.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormFileSender.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormMessage.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormNetworkSettings.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOfflineMessages.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSelectContact.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSignIn.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.Properties.Resources.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\GenerateResource.write.907.tlog
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\GenerateResource.write.914.tlog
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormPhotoReceive.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormPhotoSend.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\bin\Debug\Interop.WMPLib.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\bin\Debug\AxInterop.WMPLib.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Interop.WMPLib.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\AxInterop.WMPLib.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.ResolveComReference.cache
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormMusicPlayer.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormWebcam.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\bin\Debug\DirectX.Capture.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\bin\Debug\DShowNET.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangeDisplayName.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChatRoom.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerChatRoomBase.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerChatRoomBase.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormJoinRoom.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Interop.WMPLib.dll
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.ResolveComReference.cache
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan Messenger.exe
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan Messenger.pdb
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.exe
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.pdb
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerChatRoomBase.dll
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerContact.dll
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerLib.dll
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerNotify.dll
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerContact.pdb
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\bin\Debug\DirectX.Capture.pdb
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\bin\Debug\DShowNET.pdb
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerChatRoomBase.pdb
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerLib.pdb
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerNotify.pdb
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\bin\Debug\Interop.WMPLib.dll
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csprojResolveAssemblyReference.cache
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangeDisplayName.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChatRoom.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormJoinRoom.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormLogsReader.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormMusicPlayer.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOption.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.Form1.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAbout.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAddContact.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangePassword.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormCreateAccount.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormFileReceive.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormFileSender.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormMessage.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormNetworkSettings.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOfflineMessages.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormPhotoReceive.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormPhotoSend.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSelectContact.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSignIn.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormWebcam.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.Properties.Resources.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.GenerateResource.Cache
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.exe.config
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LAN MESSENGER\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.exe.config
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Interop.WMPLib.dll
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.ResolveComReference.cache
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan Messenger.exe
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan Messenger.pdb
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.exe
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.pdb
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerChatRoomBase.dll
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerNotify.dll
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\DirectX.Capture.pdb
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\DShowNET.pdb
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerChatRoomBase.pdb
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerNotify.pdb
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\Interop.WMPLib.dll
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csprojResolveAssemblyReference.cache
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangeDisplayName.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChatRoom.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormJoinRoom.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormLogsReader.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormMusicPlayer.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOption.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.Form1.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAbout.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAddContact.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangePassword.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormCreateAccount.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormFileReceive.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormFileSender.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormMessage.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormNetworkSettings.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOfflineMessages.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormPhotoReceive.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormPhotoSend.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSelectContact.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSignIn.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormWebcam.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.Properties.Resources.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.GenerateResource.Cache
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerContact.dll
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerLib.dll
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerContact.pdb
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerLib.pdb
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.exe.config
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Interop.WMPLib.dll
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\AxInterop.WMPLib.dll
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.ResolveComReference.cache
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan Messenger.exe
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan Messenger.pdb
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.exe
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.pdb
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerChatRoomBase.dll
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerContact.dll
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerLib.dll
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerNotify.dll
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerContact.pdb
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\DirectX.Capture.pdb
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\DShowNET.pdb
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerChatRoomBase.pdb
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerLib.pdb
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerNotify.pdb
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\Interop.WMPLib.dll
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\AxInterop.WMPLib.dll
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csprojResolveAssemblyReference.cache
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangeDisplayName.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChatRoom.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormJoinRoom.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormLogsReader.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormMusicPlayer.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOption.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.Form1.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAbout.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAddContact.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangePassword.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormCreateAccount.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormFileReceive.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormFileSender.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormMessage.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormNetworkSettings.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOfflineMessages.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormPhotoReceive.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormPhotoSend.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSelectContact.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSignIn.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormWebcam.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.Properties.Resources.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.GenerateResource.Cache
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.exe.config
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.exe
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.pdb
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerChatRoomBase.dll
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerContact.dll
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerLib.dll
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerNotify.dll
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerContact.pdb
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\DirectX.Capture.pdb
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\DShowNET.pdb
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerChatRoomBase.pdb
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerLib.pdb
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerNotify.pdb
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\Interop.WMPLib.dll
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\bin\Debug\AxInterop.WMPLib.dll
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csprojAssemblyReference.cache
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Interop.WMPLib.dll
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\AxInterop.WMPLib.dll
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.ResolveComReference.cache
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangeDisplayName.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChatRoom.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormJoinRoom.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormLogsReader.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormMusicPlayer.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOption.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.Form1.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAbout.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAddContact.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangePassword.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormCreateAccount.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormFileReceive.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormFileSender.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormMessage.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormNetworkSettings.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOfflineMessages.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormPhotoReceive.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormPhotoSend.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSelectContact.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSignIn.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormWebcam.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.Properties.Resources.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.GenerateResource.cache
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.CoreCompileInputs.cache
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.CopyComplete
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan Messenger.exe
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LAN MESSENGER\obj\Debug\Lan Messenger.pdb
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.exe.config
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.exe
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.pdb
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerChatRoomBase.dll
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerContact.dll
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerLib.dll
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerNotify.dll
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerContact.pdb
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\bin\Debug\DirectX.Capture.pdb
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\bin\Debug\DShowNET.pdb
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerChatRoomBase.pdb
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerLib.pdb
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerNotify.pdb
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\bin\Debug\Interop.WMPLib.dll
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\bin\Debug\AxInterop.WMPLib.dll
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csprojAssemblyReference.cache
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\Interop.WMPLib.dll
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\AxInterop.WMPLib.dll
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.ResolveComReference.cache
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangeDisplayName.resources
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChatRoom.resources
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormJoinRoom.resources
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormLogsReader.resources
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOption.resources
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.Form1.resources
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAbout.resources
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAddContact.resources
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangePassword.resources
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormMessage.resources
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormNetworkSettings.resources
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOfflineMessages.resources
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormPhotoReceive.resources
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormPhotoSend.resources
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSelectContact.resources
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSignIn.resources
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormWebcam.resources
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.Properties.Resources.resources
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.GenerateResource.cache
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.CoreCompileInputs.cache
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.CopyComplete
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\Lan Messenger.exe
+D:\GITHUB\demo_soon\Lan Messenger\LAN MESSENGER\obj\Debug\Lan Messenger.pdb
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.exe.config
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Interop.WMPLib.dll
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.ResolveComReference.cache
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan Messenger.exe
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan Messenger.pdb
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\bin\Debug\Resources\O.png
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\bin\Debug\Resources\X.png
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.exe
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.pdb
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerCaro.dll
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerChatRoomBase.dll
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerContact.dll
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerLib.dll
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerNotify.dll
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerContact.pdb
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerCaro.pdb
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\bin\Debug\DirectX.Capture.pdb
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\bin\Debug\DShowNET.pdb
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerChatRoomBase.pdb
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerLib.pdb
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\bin\Debug\LanMessengerNotify.pdb
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\bin\Debug\Interop.WMPLib.dll
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csprojResolveAssemblyReference.cache
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormCaro.resources
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangeDisplayName.resources
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChatRoom.resources
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormJoinRoom.resources
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormLogsReader.resources
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOption.resources
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.Form1.resources
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAbout.resources
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAddContact.resources
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangePassword.resources
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormMessage.resources
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormNetworkSettings.resources
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOfflineMessages.resources
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormPhotoReceive.resources
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormPhotoSend.resources
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSelectContact.resources
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSignIn.resources
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormWebcam.resources
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan_Messenger.Properties.Resources.resources
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.GenerateResource.Cache
+D:\LanChat\Lan Messenger\LAN MESSENGER\bin\Debug\Lan Messenger.exe.config
+D:\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Interop.WMPLib.dll
+D:\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\AxInterop.WMPLib.dll
+D:\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.ResolveComReference.cache
+D:\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan Messenger.exe
+D:\LanChat\Lan Messenger\LAN MESSENGER\obj\Debug\Lan Messenger.pdb
+D:\LanChat\LanMessenger\LAN MESSENGER\bin\Debug\Lan Messenger.exe.config
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Interop.WMPLib.dll
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\AxInterop.WMPLib.dll
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.ResolveComReference.cache
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan Messenger.exe
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan Messenger.pdb
+D:\LanChat\LanMessenger\LAN MESSENGER\bin\Debug\Resources\O.png
+D:\LanChat\LanMessenger\LAN MESSENGER\bin\Debug\Resources\X.png
+D:\LanChat\LanMessenger\LAN MESSENGER\bin\Debug\Lan Messenger.exe
+D:\LanChat\LanMessenger\LAN MESSENGER\bin\Debug\Lan Messenger.pdb
+D:\LanChat\LanMessenger\LAN MESSENGER\bin\Debug\LanMessengerCaro.dll
+D:\LanChat\LanMessenger\LAN MESSENGER\bin\Debug\LanMessengerChatRoomBase.dll
+D:\LanChat\LanMessenger\LAN MESSENGER\bin\Debug\LanMessengerContact.dll
+D:\LanChat\LanMessenger\LAN MESSENGER\bin\Debug\LanMessengerLib.dll
+D:\LanChat\LanMessenger\LAN MESSENGER\bin\Debug\LanMessengerNotify.dll
+D:\LanChat\LanMessenger\LAN MESSENGER\bin\Debug\LanMessengerContact.pdb
+D:\LanChat\LanMessenger\LAN MESSENGER\bin\Debug\LanMessengerCaro.pdb
+D:\LanChat\LanMessenger\LAN MESSENGER\bin\Debug\DirectX.Capture.pdb
+D:\LanChat\LanMessenger\LAN MESSENGER\bin\Debug\DShowNET.pdb
+D:\LanChat\LanMessenger\LAN MESSENGER\bin\Debug\LanMessengerChatRoomBase.pdb
+D:\LanChat\LanMessenger\LAN MESSENGER\bin\Debug\LanMessengerLib.pdb
+D:\LanChat\LanMessenger\LAN MESSENGER\bin\Debug\LanMessengerNotify.pdb
+D:\LanChat\LanMessenger\LAN MESSENGER\bin\Debug\Interop.WMPLib.dll
+D:\LanChat\LanMessenger\LAN MESSENGER\bin\Debug\AxInterop.WMPLib.dll
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csprojResolveAssemblyReference.cache
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormCaro.resources
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangeDisplayName.resources
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChatRoom.resources
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormJoinRoom.resources
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormLogsReader.resources
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOption.resources
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan_Messenger.Form1.resources
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAbout.resources
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAddContact.resources
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangePassword.resources
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormMessage.resources
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormNetworkSettings.resources
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOfflineMessages.resources
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormPhotoReceive.resources
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormPhotoSend.resources
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSelectContact.resources
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSignIn.resources
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormWebcam.resources
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan_Messenger.Properties.Resources.resources
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.GenerateResource.Cache
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSendFile.resources
+D:\LanChat\LanMessenger\LAN MESSENGER\bin\Debug\LanMessengerSendFile.dll
+D:\LanChat\LanMessenger\LAN MESSENGER\bin\Debug\LanMessengerSendFile.pdb
+D:\LanChat\LanMessenger\LAN MESSENGER\obj\Debug\Lan_Messenger.FormRecieveFile.resources
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\Resources\O.png
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\Resources\X.png
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\Lan Messenger.exe.config
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\Lan Messenger.exe
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\Lan Messenger.pdb
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerCaro.dll
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerChatRoomBase.dll
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerContact.dll
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerLib.dll
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerNotify.dll
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerSendFile.dll
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerCaro.pdb
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerContact.pdb
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerSendFile.pdb
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\DirectX.Capture.pdb
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\DShowNET.pdb
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerChatRoomBase.pdb
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerLib.pdb
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerNotify.pdb
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\Interop.WMPLib.dll
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\AxInterop.WMPLib.dll
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\LAN MESSENGER.csprojResolveAssemblyReference.cache
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Interop.WMPLib.dll
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\AxInterop.WMPLib.dll
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.ResolveComReference.cache
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormCaro.resources
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangeDisplayName.resources
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChatRoom.resources
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormJoinRoom.resources
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormLogsReader.resources
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOption.resources
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.Form1.resources
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAbout.resources
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAddContact.resources
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangePassword.resources
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormMessage.resources
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormNetworkSettings.resources
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOfflineMessages.resources
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormPhotoReceive.resources
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormPhotoSend.resources
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormRecieveFile.resources
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSelectContact.resources
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSendFile.resources
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSignIn.resources
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormWebcam.resources
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.Properties.Resources.resources
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.GenerateResource.Cache
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan Messenger.exe
+D:\LanChat\LanMessenger\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan Messenger.pdb
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\Resources\O.png
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\Resources\X.png
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\Lan Messenger.exe.config
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\Lan Messenger.exe
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\Lan Messenger.pdb
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerCaro.dll
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerChatRoomBase.dll
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerContact.dll
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerLib.dll
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerNotify.dll
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerSendFile.dll
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerCaro.pdb
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerContact.pdb
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerSendFile.pdb
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\DirectX.Capture.pdb
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\DShowNET.pdb
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerChatRoomBase.pdb
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerLib.pdb
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\LanMessengerNotify.pdb
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\Interop.WMPLib.dll
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\LAN MESSENGER.csprojAssemblyReference.cache
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Interop.WMPLib.dll
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.ResolveComReference.cache
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormCaro.resources
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangeDisplayName.resources
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChatRoom.resources
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormJoinRoom.resources
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormLogsReader.resources
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOption.resources
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.Form1.resources
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAbout.resources
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAddContact.resources
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangePassword.resources
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormMessage.resources
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormNetworkSettings.resources
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOfflineMessages.resources
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormPhotoReceive.resources
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormPhotoSend.resources
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormRecieveFile.resources
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSelectContact.resources
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSendFile.resources
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSignIn.resources
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.FormWebcam.resources
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan_Messenger.Properties.Resources.resources
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.GenerateResource.cache
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.CoreCompileInputs.cache
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.CopyComplete
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan Messenger.exe
+C:\Users\HoThaiNgoc\Pictures\LanMessenger-master\Chương Trình\Source Code\LAN MESSENGER\obj\Debug\Lan Messenger.pdb

@@ -1,0 +1,8 @@
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\ChatMasalaContact\bin\Debug\ChatMasalaContact.dll
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\ChatMasalaContact\bin\Debug\ChatMasalaContact.pdb
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\ChatMasalaContact\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\ChatMasalaContact\obj\Debug\ChatMasalaControls.ChatMasalaContact.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\ChatMasalaContact\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\ChatMasalaContact\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\ChatMasalaContact\obj\Debug\ChatMasalaContact.dll
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\ChatMasalaContact\obj\Debug\ChatMasalaContact.pdb

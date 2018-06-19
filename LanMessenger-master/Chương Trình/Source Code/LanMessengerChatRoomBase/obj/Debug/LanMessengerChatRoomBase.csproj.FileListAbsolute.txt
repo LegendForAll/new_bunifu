@@ -1,0 +1,32 @@
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerChatRoomBase\bin\Debug\LanMessengerChatRoomBase.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerChatRoomBase\bin\Debug\LanMessengerChatRoomBase.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.pdb
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerChatRoomBase\bin\Debug\LanMessengerChatRoomBase.dll
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerChatRoomBase\bin\Debug\LanMessengerChatRoomBase.pdb
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.csprojResolveAssemblyReference.cache
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.dll
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.pdb
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LanMessengerChatRoomBase\bin\Debug\LanMessengerChatRoomBase.dll
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LanMessengerChatRoomBase\bin\Debug\LanMessengerChatRoomBase.pdb
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.csprojResolveAssemblyReference.cache
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.dll
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.pdb
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LanMessengerChatRoomBase\bin\Debug\LanMessengerChatRoomBase.dll
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LanMessengerChatRoomBase\bin\Debug\LanMessengerChatRoomBase.pdb
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.csprojAssemblyReference.cache
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.csproj.CoreCompileInputs.cache
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.dll
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.pdb
+D:\GITHUB\demo_soon\Lan Messenger\LanMessengerChatRoomBase\bin\Debug\LanMessengerChatRoomBase.dll
+D:\GITHUB\demo_soon\Lan Messenger\LanMessengerChatRoomBase\bin\Debug\LanMessengerChatRoomBase.pdb
+D:\GITHUB\demo_soon\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.csprojAssemblyReference.cache
+D:\GITHUB\demo_soon\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.csproj.CoreCompileInputs.cache
+D:\GITHUB\demo_soon\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.dll
+D:\GITHUB\demo_soon\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.pdb
+D:\LanChat\LanMessenger\LanMessengerChatRoomBase\bin\Debug\LanMessengerChatRoomBase.dll
+D:\LanChat\LanMessenger\LanMessengerChatRoomBase\bin\Debug\LanMessengerChatRoomBase.pdb
+D:\LanChat\LanMessenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.csprojResolveAssemblyReference.cache
+D:\LanChat\LanMessenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.dll
+D:\LanChat\LanMessenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.pdb

@@ -1,0 +1,26 @@
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\ChatMasalaContact\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\ChatMasalaContact\obj\Debug\LanMessengerControls.LanMessengerContact.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\ChatMasalaContact\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\ChatMasalaContact\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\ChatMasalaContact\bin\Debug\LanMessengerContact.dll
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\ChatMasalaContact\bin\Debug\LanMessengerContact.pdb
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\ChatMasalaContact\obj\Debug\LanMessengerContact.dll
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\ChatMasalaContact\obj\Debug\LanMessengerContact.pdb
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LanMessengerContact\bin\Debug\LanMessengerContact.dll
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LanMessengerContact\bin\Debug\LanMessengerContact.pdb
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LanMessengerContact\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LanMessengerContact\obj\Debug\LanMessengerContact.Properties.Resources.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LanMessengerContact\obj\Debug\LanMessengerControls.LanMessengerContact.resources
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LanMessengerContact\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LanMessengerContact\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LanMessengerContact\obj\Debug\LanMessengerContact.dll
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LanMessengerContact\obj\Debug\LanMessengerContact.pdb
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerContact.dll
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerContact.pdb
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerContact\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.Properties.Resources.resources
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerControls.LanMessengerContact.resources
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerContact\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerContact\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.dll
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.pdb

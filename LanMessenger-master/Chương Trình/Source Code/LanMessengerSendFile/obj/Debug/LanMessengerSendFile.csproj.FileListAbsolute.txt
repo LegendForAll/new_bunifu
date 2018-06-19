@@ -1,0 +1,5 @@
+D:\LanChat\LanMessenger\LanMessengerSendFile\bin\Debug\LanMessengerSendFile.dll
+D:\LanChat\LanMessenger\LanMessengerSendFile\bin\Debug\LanMessengerSendFile.pdb
+D:\LanChat\LanMessenger\LanMessengerSendFile\obj\Debug\LanMessengerSendFile.csprojResolveAssemblyReference.cache
+D:\LanChat\LanMessenger\LanMessengerSendFile\obj\Debug\LanMessengerSendFile.dll
+D:\LanChat\LanMessenger\LanMessengerSendFile\obj\Debug\LanMessengerSendFile.pdb

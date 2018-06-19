@@ -1,0 +1,94 @@
+C:\Users\Ding\Desktop\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerContact.dll
+C:\Users\Ding\Desktop\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerContact.pdb
+C:\Users\Ding\Desktop\Lan Messenger\LanMessengerContact\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.Properties.Resources.resources
+C:\Users\Ding\Desktop\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerControls.LanMessengerContact.resources
+C:\Users\Ding\Desktop\Lan Messenger\LanMessengerContact\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ding\Desktop\Lan Messenger\LanMessengerContact\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ding\Desktop\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.dll
+C:\Users\Ding\Desktop\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerContact.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerContact.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerContact\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.Properties.Resources.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerControls.LanMessengerContact.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerContact\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerContact\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerLib.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerLib.pdb
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerContact.dll
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerContact.pdb
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerLib.dll
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerLib.pdb
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.csprojResolveAssemblyReference.cache
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.Properties.Resources.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerControls.LanMessengerContact.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.csproj.GenerateResource.Cache
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.dll
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.pdb
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerContact.dll
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerContact.pdb
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.csprojResolveAssemblyReference.cache
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.Properties.Resources.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerControls.LanMessengerContact.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.csproj.GenerateResource.Cache
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.dll
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.pdb
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerLib.dll
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerLib.pdb
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerContact.dll
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerContact.pdb
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerLib.dll
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerLib.pdb
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.csprojResolveAssemblyReference.cache
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.Properties.Resources.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerControls.LanMessengerContact.resources
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.csproj.GenerateResource.Cache
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.dll
+D:\GITHUB\Project_LanChatV3\Pro_Siminar\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.pdb
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerContact.dll
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerContact.pdb
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerLib.dll
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerLib.pdb
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.csprojAssemblyReference.cache
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.Properties.Resources.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerControls.LanMessengerContact.resources
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.csproj.GenerateResource.cache
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.csproj.CoreCompileInputs.cache
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.csproj.CopyComplete
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.dll
+D:\GITHUB\Project_LanChat\Pro_Siminar\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.pdb
+D:\GITHUB\demo_soon\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerContact.dll
+D:\GITHUB\demo_soon\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerContact.pdb
+D:\GITHUB\demo_soon\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerLib.dll
+D:\GITHUB\demo_soon\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerLib.pdb
+D:\GITHUB\demo_soon\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.csprojAssemblyReference.cache
+D:\GITHUB\demo_soon\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.Properties.Resources.resources
+D:\GITHUB\demo_soon\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerControls.LanMessengerContact.resources
+D:\GITHUB\demo_soon\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.csproj.GenerateResource.cache
+D:\GITHUB\demo_soon\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.csproj.CoreCompileInputs.cache
+D:\GITHUB\demo_soon\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.csproj.CopyComplete
+D:\GITHUB\demo_soon\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.dll
+D:\GITHUB\demo_soon\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.pdb
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerContact.dll
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerContact.pdb
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerLib.dll
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LanMessengerContact\bin\Debug\LanMessengerLib.pdb
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.csprojResolveAssemblyReference.cache
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.Properties.Resources.resources
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerControls.LanMessengerContact.resources
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.csproj.GenerateResource.Cache
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.dll
+C:\Users\HITONASI\Desktop\LanChat\Lan Messenger\LanMessengerContact\obj\Debug\LanMessengerContact.pdb
+D:\LanChat\LanMessenger\LanMessengerContact\bin\Debug\LanMessengerContact.dll
+D:\LanChat\LanMessenger\LanMessengerContact\bin\Debug\LanMessengerContact.pdb
+D:\LanChat\LanMessenger\LanMessengerContact\bin\Debug\LanMessengerLib.dll
+D:\LanChat\LanMessenger\LanMessengerContact\bin\Debug\LanMessengerLib.pdb
+D:\LanChat\LanMessenger\LanMessengerContact\obj\Debug\LanMessengerContact.csprojResolveAssemblyReference.cache
+D:\LanChat\LanMessenger\LanMessengerContact\obj\Debug\LanMessengerContact.Properties.Resources.resources
+D:\LanChat\LanMessenger\LanMessengerContact\obj\Debug\LanMessengerControls.LanMessengerContact.resources
+D:\LanChat\LanMessenger\LanMessengerContact\obj\Debug\LanMessengerContact.csproj.GenerateResource.Cache
+D:\LanChat\LanMessenger\LanMessengerContact\obj\Debug\LanMessengerContact.dll
+D:\LanChat\LanMessenger\LanMessengerContact\obj\Debug\LanMessengerContact.pdb
